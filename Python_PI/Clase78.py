@@ -15,10 +15,10 @@
 # en la cual se encuentra el archivo .exe. 
 
 # Se hace: pyinstaller --windowed CalculadoraClase50.py
-# Para que el exe no habra la consola de python al ejecutarse. 
+# Para que el exe no abra la consola de python al ejecutarse. 
 
 # Se hace: pyinstaller --windowed -onefile CalculadoraClase50.py
-# Para que solo se cree el ejecutable y no todas las carpetas
+# Para que sólo se cree el ejecutable y no todas las carpetas
 # Esto sirve para que usuarios con otro sistema operativo o incluso
 # sin Python puedan ejecutar el programa que se ha creado. 
 
