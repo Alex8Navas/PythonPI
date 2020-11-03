@@ -3,7 +3,7 @@
 Hey = "Mi nombre es John"
 print(Hey)
 
-# \ sirve para pegar un salto pero seguir programando
+# El \ sirve para pegar un salto pero seguir programando.
 Hey = "Mi nombre \
 es John"
 print(Hey)
